@@ -1,2 +1,2 @@
 # JPMC Task 2
-Starter repo for task 2 of JPMC's Forage program
+"This repository contains my solution to the JPMorgan Chase Software Engineering Virtual Experience by Forage. Tasks included data visualization, bug fixing, and interfacing with live stock price data feeds using JPMorgan's tools."
